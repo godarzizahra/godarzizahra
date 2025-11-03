@@ -11,7 +11,8 @@ I'm Zahra, passionate about programming and learning new things.
 ![React](https://img.shields.io/badge/React-Learning-blue)
 
 ---
-
+### GitHub Stats
+![Zizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=godarzizahra&show_icons=true&theme=radical)
 
 
 
