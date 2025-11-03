@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi! 👋
+I'm Zahra, passionate about programming and learning new things.
+
+🌱 Currently learning Frontend development and React  
+💻 Interested in technology 
+
 
 <!--
 **godarzizahra/godarzizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
