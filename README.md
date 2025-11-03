@@ -11,7 +11,7 @@ I'm Zahra, passionate about programming and learning new things.
 ![React](https://img.shields.io/badge/React-Learning-blue)
 
 ---
-![Welcome GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Welcome GIF]()
 
 
 <!--
