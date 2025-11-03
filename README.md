@@ -15,6 +15,8 @@ I'm Zahra, passionate about programming and learning new things.
 ![Zizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=godarzizahra&show_icons=true&theme=radical)
 
 
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-godarzi-b76339247/)
 
 <!--
 **godarzizahra/godarzizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
