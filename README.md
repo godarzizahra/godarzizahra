@@ -12,8 +12,7 @@ I'm Zahra, passionate about programming and learning new things.
 
 ---
 
-### GitHub Stats
-![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=godarzizahra_icons=true&theme=radical)
+
 <!--
 **godarzizahra/godarzizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
