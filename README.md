@@ -1,34 +1,43 @@
-# Hi! 👋
-I'm Zahra, passionate about programming and learning new things.
+# Hi! 👋  
+I'm Zahra, a Front-End Developer passionate about building modern and responsive web applications.
 
-🌱 Currently learning Frontend development and React  
-💻 Interested in technology 
+💻 Front-End Developer (React / Next.js)  
+🌱 Focused on improving UI/UX and clean code practices  
+🚀 Always learning new technologies and improving my development skills  
+
+---
+
+### 🧠 Tech Stack
+
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-38B2AC)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
 
 ---
 
-### Skills & Learning
-![Frontend](https://img.shields.io/badge/Frontend-Learning-yellow)
-![React](https://img.shields.io/badge/React-Learning-blue)
+### 🚀 Featured Project
+
+**Shop Zamira – E-commerce Platform**  
+A responsive e-commerce web application built with React / Next.js ecosystem.
+
+- Product listing & filtering
+- Authentication system (Login/Register)
+- Admin dashboard for product management
+- Fully responsive UI with Tailwind CSS
+- Form validation and API integration
 
 ---
-### GitHub Stats
-![Zizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=godarzizahra&show_icons=true&theme=radical)
 
+### 📊 GitHub Stats
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-godarzi-b76339247/)
+![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=godarzizahra&show_icons=true&theme=radical)
 
-<!--
-**godarzizahra/godarzizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-godarzi-b76339247/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/godarzizahra)
